@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Helmet } from 'react-helmet'
 
-import Navbar from '../components/navbar'
+import Navbar1 from '../components/navbar1'
 import Footer from '../components/footer'
 import './explorer.css'
 
@@ -10,13 +10,23 @@ const Explorer = (props) => {
   return (
     <div className="explorer-container">
       <Helmet>
-        <title>Explorer - GOR TEMPLATE</title>
-        <meta property="og:title" content="Explorer - GOR TEMPLATE" />
+        <title>
+          Explorer - Gorbaniov Network - Next Generation GhostDag Blockchain POW
+        </title>
+        <meta
+          name="description"
+          content="Next generation GhostDAG BlockChain POW Cryptocurrency utilizing fast transaction speed and lowest fees."
+        />
+        <meta
+          property="og:title"
+          content="Explorer - Gorbaniov Network - Next Generation GhostDag Blockchain POW "
+        />
+        <meta
+          property="og:description"
+          content="Next generation GhostDAG BlockChain POW Cryptocurrency utilizing fast transaction speed and lowest fees."
+        />
       </Helmet>
-      <Navbar
-        image_src1="/Branding/v1-1500h.png"
-        rootClassName="navbar-root-class-name1"
-      ></Navbar>
+      <Navbar1 rootClassName="navbar1-root-class-name"></Navbar1>
       <div className="explorer-explorer-title">
         <h2 className="explorer-text section-head">GOR NETWORK Explorer</h2>
       </div>
