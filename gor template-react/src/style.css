@@ -41,13 +41,16 @@
   align-items: center;
   padding-top: var(--dl-space-space-oneandhalfunits);
   padding-left: var(--dl-space-space-twounits);
-  border-radius: 58px;
+  border-radius: 16px;
   padding-right: var(--dl-space-space-twounits);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .button:hover {
-  opacity: 0.5;
+  font-weight: 700;
+  border-radius: 48px;
+  background-color: darkorange;
+  text-emphasis-color: white;
 }
 
 .textarea {
@@ -221,6 +224,7 @@
   font-family: Poppins;
   font-weight: 500;
   line-height: 30px;
+  text-decoration-line: underline;
 }
 .footer-link {
   color: rgb(204, 204, 204);
@@ -228,10 +232,15 @@
   font-family: Poppins;
   line-height: 21px;
 }
+.footer-link:hover {
+  font-weight: 700;
+}
 
 
 .a:hover {
   color: orange;
+  font-weight: 700;
+  text-decoration-line: underline;
 }
 .a:active {
   color: darkorange;
@@ -262,6 +271,45 @@
 .searchbar {
   font-size: larger;
 }
+.iconcolor {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  display: flex;
+  padding: var(--dl-space-space-halfunit);
+  margin-top: 0px;
+  align-items: center;
+  margin-left: 0px;
+  aspect-ratio: 1;
+  margin-right: var(--dl-space-space-halfunit);
+  border-radius: 50%;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #FF8621;
+}
+.icon {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  display: flex;
+  padding: var(--dl-space-space-halfunit);
+  margin-top: 0px;
+  align-items: center;
+  margin-left: 0px;
+  aspect-ratio: 1;
+  margin-right: var(--dl-space-space-halfunit);
+  border-radius: 50%;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-danger-500);
+}
+.flink {
+  color: #FF8621;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration: none;
+}
 .Heading {
   font-size: 32px;
   font-family: Inter;
@@ -278,6 +326,14 @@
   text-transform: none;
   text-decoration: none;
 }
+@media(max-width: 1200px) {
+  .icon {
+    background-color: transparent;
+  }
+  .flink {
+    color: #CFFCFF;
+  }
+}
 
 @media(max-width: 767px) {
   .nav-link {
@@ -290,5 +346,8 @@
 @media(max-width: 479px) {
   .accordion-element {
     max-width: auto;
+  }
+  .icon {
+    background-color: #FF8621;
   }
 }
