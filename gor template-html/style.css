@@ -41,13 +41,16 @@
   align-items: center;
   padding-top: var(--dl-space-space-oneandhalfunits);
   padding-left: var(--dl-space-space-twounits);
-  border-radius: 58px;
+  border-radius: 16px;
   padding-right: var(--dl-space-space-twounits);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .button:hover {
-  opacity: 0.5;
+  font-weight: 700;
+  border-radius: 48px;
+  background-color: darkorange;
+  text-emphasis-color: white;
 }
 
 .textarea {
@@ -221,6 +224,7 @@
   font-family: Poppins;
   font-weight: 500;
   line-height: 30px;
+  text-decoration-line: underline;
 }
 .footer-link {
   color: rgb(204, 204, 204);
@@ -228,10 +232,15 @@
   font-family: Poppins;
   line-height: 21px;
 }
+.footer-link:hover {
+  font-weight: 700;
+}
 
 
 .a:hover {
   color: orange;
+  font-weight: 700;
+  text-decoration-line: underline;
 }
 .a:active {
   color: darkorange;
