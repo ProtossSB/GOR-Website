@@ -13,8 +13,8 @@ const Footer = (props) => {
             <header className="footer-main">
               <div className="footer-header">
                 <img
-                  alt={props.image_alt}
-                  src={props.image_src}
+                  src={props.image_src1}
+                  alt={props.image_alt1}
                   className="footer-image"
                 />
                 <span className="footer-text footer-header">
@@ -32,13 +32,29 @@ const Footer = (props) => {
                   <span className="footer-header">{props.Text1}</span>
                 </div>
                 <div className="footer-links">
-                  <span className="footer-link">
+                  <a href="#FAQ" className="footer-text06 footer-link">
                     <span className="">FAQ</span>
                     <br className=""></br>
-                  </span>
-                  <span className="footer-link">{props.Text2}</span>
-                  <span className="footer-link">{props.Text3}</span>
-                  <span className="footer-link">{props.Text4}</span>
+                  </a>
+                  <a
+                    href="https://github.com/ixbaseANT/"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="footer-text09 footer-link"
+                  >
+                    {props.Text2}
+                  </a>
+                  <a href="#Social" className="footer-text10 footer-link">
+                    {props.Text3}
+                  </a>
+                  <a
+                    href="http://fortify-exchange.online/"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="footer-text11 footer-link"
+                  >
+                    {props.Text4}
+                  </a>
                 </div>
               </div>
               <div className="footer-category1">
@@ -103,28 +119,9 @@ const Footer = (props) => {
             <span className="footer-text21">{props.text1}</span>
           </section>
         </main>
-        <main className="footer-subscribe">
-          <main className="footer-main1">
-            <h1 className="footer-heading">{props.Heading}</h1>
-            <div className="footer-input-field">
-              <input
-                type="email"
-                placeholder={props.textinput_placeholder}
-                className="footer-textinput input"
-              />
-              <div className="footer-buy button">
-                <span className="footer-text22">{props.Text}</span>
-                <span className="footer-text23">
-                  <span className="">Subscribe now</span>
-                  <br className=""></br>
-                </span>
-              </div>
-            </div>
-          </main>
-          <h1 className="footer-notice">{props.Notice}</h1>
-        </main>
+        <main className="footer-subscribe"></main>
         <section className="footer-copyright1">
-          <span className="footer-text26">{props.text}</span>
+          <span className="footer-text22">{props.text}</span>
         </section>
       </div>
     </footer>
@@ -139,7 +136,7 @@ Footer.defaultProps = {
   rootClassName: '',
   Text7: 'Facebook',
   Text10: 'TikTok',
-  image_src: '/Branding/v1-200h.png',
+  image_src: '8db31361-5151-448f-9ab3-4b1d36c606a7',
   Text2: 'GitHUB',
   Notice:
     'By subscribing to our newsletter you agree with our Terms and Conditions.',
@@ -152,6 +149,8 @@ Footer.defaultProps = {
   Text9: 'Youtube',
   text: '© 2022 latitude. All Rights Reserved.',
   text1: '© 2023 GORBANIOV All Rights Reserved.',
+  image_src1: '/Branding/gor%20logo%20jan%202024-200h.png',
+  image_alt1: 'image',
 }
 
 Footer.propTypes = {
@@ -174,6 +173,8 @@ Footer.propTypes = {
   Text9: PropTypes.string,
   text: PropTypes.string,
   text1: PropTypes.string,
+  image_src1: PropTypes.string,
+  image_alt1: PropTypes.string,
 }
 
 export default Footer
