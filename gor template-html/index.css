@@ -469,7 +469,7 @@
 .home-get-started1 {
   background-color: #2A2A2A;
 }
-.home-text01 {
+.home-text001 {
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-style: normal;
@@ -752,7 +752,7 @@
   padding-bottom: var(--dl-space-space-twounits);
   justify-content: center;
 }
-.home-text24 {
+.home-text024 {
   color: rgb(255, 255, 255);
   font-size: 40px;
   font-style: normal;
@@ -777,42 +777,42 @@
   border-color: var(--dl-color-gray-black);
   border-width: 0px;
 }
-.home-text25 {
+.home-text025 {
   color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: normal;
   font-family: "Poppins";
   font-weight: 600;
 }
-.home-text26 {
+.home-text026 {
   color: rgb(121, 124, 128);
   font-family: "Poppins";
 }
 .home-feature1 {
   padding: var(--dl-space-space-unit);
 }
-.home-text27 {
+.home-text027 {
   color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: normal;
   font-family: "Poppins";
   font-weight: 600;
 }
-.home-text28 {
+.home-text028 {
   color: rgb(121, 124, 128);
   font-family: "Poppins";
 }
 .home-feature2 {
   padding: var(--dl-space-space-unit);
 }
-.home-text29 {
+.home-text029 {
   color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: normal;
   font-family: "Poppins";
   font-weight: 600;
 }
-.home-text30 {
+.home-text030 {
   color: rgb(121, 124, 128);
   font-family: "Poppins";
 }
@@ -834,14 +834,14 @@
   border-color: var(--dl-color-gray-black);
   border-width: 0px;
 }
-.home-text31 {
+.home-text031 {
   color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: normal;
   font-family: "Poppins";
   font-weight: 600;
 }
-.home-text32 {
+.home-text032 {
   color: rgb(121, 124, 128);
   font-family: "Poppins";
 }
@@ -849,14 +849,14 @@
   padding: var(--dl-space-space-unit);
   padding-right: var(--dl-space-space-unit);
 }
-.home-text33 {
+.home-text035 {
   color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: normal;
   font-family: "Poppins";
   font-weight: 600;
 }
-.home-text34 {
+.home-text036 {
   color: rgb(121, 124, 128);
   font-family: "Poppins";
 }
@@ -864,14 +864,14 @@
   padding: var(--dl-space-space-unit);
   padding-right: var(--dl-space-space-unit);
 }
-.home-text35 {
+.home-text037 {
   color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: normal;
   font-family: "Poppins";
   font-weight: 600;
 }
-.home-text36 {
+.home-text038 {
   color: rgb(121, 124, 128);
   font-family: "Poppins";
 }
@@ -963,12 +963,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text44 {
+.home-text046 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text45 {
+.home-text047 {
   color: rgb(218, 218, 218);
 }
 .home-feature-card1 {
@@ -989,12 +989,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text46 {
+.home-text048 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text47 {
+.home-text049 {
   color: rgb(218, 218, 218);
 }
 .home-feature-card2 {
@@ -1015,12 +1015,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text48 {
+.home-text050 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text49 {
+.home-text051 {
   color: rgb(218, 218, 218);
 }
 .home-feature-card3 {
@@ -1041,12 +1041,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text50 {
+.home-text052 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text51 {
+.home-text053 {
   color: rgb(218, 218, 218);
 }
 .home-container03 {
@@ -1074,12 +1074,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text52 {
+.home-text054 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text53 {
+.home-text055 {
   color: rgb(218, 218, 218);
 }
 .home-feature-card5 {
@@ -1099,12 +1099,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text54 {
+.home-text056 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text55 {
+.home-text057 {
   color: rgb(218, 218, 218);
 }
 .home-feature-card6 {
@@ -1124,12 +1124,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text56 {
+.home-text058 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text57 {
+.home-text059 {
   color: rgb(218, 218, 218);
 }
 .home-feature-card7 {
@@ -1149,12 +1149,12 @@
   height: 2rem;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text58 {
+.home-text060 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text59 {
+.home-text061 {
   color: rgb(218, 218, 218);
 }
 .home-section04 {
@@ -2604,7 +2604,7 @@
 .home-link12 {
   display: contents;
 }
-.home-text70 {
+.home-text072 {
   color: #FF8621;
   font-style: normal;
   font-weight: 500;
@@ -2702,7 +2702,7 @@
 .home-link13 {
   display: contents;
 }
-.home-text71 {
+.home-text073 {
   color: #FF8621;
   font-style: normal;
   font-weight: 500;
@@ -2811,7 +2811,7 @@
 .home-link14 {
   display: contents;
 }
-.home-text72 {
+.home-text074 {
   color: #FF8621;
   font-style: normal;
   font-weight: 500;
@@ -2893,7 +2893,7 @@
 .home-link15 {
   display: contents;
 }
-.home-text73 {
+.home-text075 {
   color: #FF8621;
   font-style: normal;
   font-weight: 500;
@@ -2975,7 +2975,7 @@
 .home-link16 {
   display: contents;
 }
-.home-text74 {
+.home-text076 {
   color: #FF8621;
   font-style: normal;
   font-weight: 500;
@@ -3040,7 +3040,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text75 {
+.home-text077 {
   color: rgb(255, 255, 255);
   width: 100%;
   font-size: 20px;
@@ -3049,7 +3049,7 @@
   font-weight: 500;
   line-height: 28px;
 }
-.home-text76 {
+.home-text078 {
   color: rgb(204, 204, 204);
   width: 100%;
   font-family: "Poppins";
@@ -3078,7 +3078,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text82 {
+.home-text084 {
   color: rgb(255, 255, 255);
   width: 100%;
   font-size: 20px;
@@ -3087,7 +3087,7 @@
   font-weight: 500;
   line-height: 28px;
 }
-.home-text83 {
+.home-text085 {
   color: rgb(204, 204, 204);
   width: 100%;
   font-family: "Poppins";
@@ -3113,7 +3113,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text84 {
+.home-text086 {
   color: rgb(255, 255, 255);
   width: 100%;
   font-size: 20px;
@@ -3122,7 +3122,7 @@
   font-weight: 500;
   line-height: 28px;
 }
-.home-text85 {
+.home-text087 {
   color: rgb(204, 204, 204);
   width: 100%;
   font-family: "Poppins";
@@ -3160,7 +3160,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text95 {
+.home-text097 {
   color: rgb(255, 255, 255);
   width: 100%;
   font-size: 20px;
@@ -3169,7 +3169,7 @@
   font-weight: 500;
   line-height: 28px;
 }
-.home-text96 {
+.home-text098 {
   color: rgb(204, 204, 204);
   width: 100%;
   font-family: "Poppins";
@@ -3195,7 +3195,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text97 {
+.home-text099 {
   color: rgb(255, 255, 255);
   width: 100%;
   font-size: 20px;
@@ -3204,7 +3204,7 @@
   font-weight: 500;
   line-height: 28px;
 }
-.home-text98 {
+.home-text100 {
   color: rgb(204, 204, 204);
   width: 100%;
   font-family: "Poppins";
@@ -3229,7 +3229,7 @@
   .home-button {
     border-color: #FF8621;
   }
-  .home-text69 {
+  .home-text071 {
     color: #FF8621;
   }
   .home-icon098 {
@@ -3238,7 +3238,7 @@
   .home-button1 {
     border-color: #FF8621;
   }
-  .home-text70 {
+  .home-text072 {
     color: #FF8621;
   }
   .home-icon101 {
@@ -3247,25 +3247,25 @@
   .home-button2 {
     border-color: #FF8621;
   }
-  .home-text71 {
+  .home-text073 {
     color: #FF8621;
   }
   .home-icon104 {
     background-color: #FF8621;
   }
-  .home-text72 {
+  .home-text074 {
     color: #FF8621;
   }
   .home-button4 {
     border-color: #FF8621;
   }
-  .home-text73 {
+  .home-text075 {
     color: #FF8621;
   }
   .home-button5 {
     border-color: #FF8621;
   }
-  .home-text74 {
+  .home-text076 {
     color: #FF8621;
   }
 }
@@ -3332,7 +3332,7 @@
     gap: var(--dl-space-space-oneandhalfunits);
     flex-direction: column;
   }
-  .home-text24 {
+  .home-text024 {
     text-align: center;
   }
   .home-note {
@@ -3462,7 +3462,7 @@
     padding-top: 100px;
     padding-bottom: 100px;
   }
-  .home-text24 {
+  .home-text024 {
     font-size: 32px;
     text-align: center;
   }
@@ -3477,7 +3477,7 @@
     width: 100%;
     padding-bottom: var(--dl-space-space-unit);
   }
-  .home-text25 {
+  .home-text025 {
     font-size: 20px;
   }
   .home-feature1 {
@@ -3486,14 +3486,14 @@
     padding-bottom: var(--dl-space-space-unit);
     border-bottom-width: 1px;
   }
-  .home-text27 {
+  .home-text027 {
     font-size: 20px;
   }
   .home-feature2 {
     width: 100%;
     padding-bottom: var(--dl-space-space-unit);
   }
-  .home-text29 {
+  .home-text029 {
     font-size: 20px;
   }
   .home-features1 {
@@ -3507,7 +3507,7 @@
     width: 100%;
     padding-bottom: var(--dl-space-space-unit);
   }
-  .home-text31 {
+  .home-text031 {
     font-size: 20px;
   }
   .home-feature4 {
@@ -3516,14 +3516,14 @@
     padding-bottom: var(--dl-space-space-unit);
     border-bottom-width: 1px;
   }
-  .home-text33 {
+  .home-text035 {
     font-size: 20px;
   }
   .home-feature5 {
     width: 100%;
     padding-bottom: var(--dl-space-space-unit);
   }
-  .home-text35 {
+  .home-text037 {
     font-size: 20px;
   }
   .home-note {
@@ -3574,23 +3574,23 @@
     gap: var(--dl-space-space-oneandhalfunits);
     flex-direction: column;
   }
-  .home-text75 {
+  .home-text077 {
     font-size: 16px;
     line-height: 24px;
   }
-  .home-text82 {
+  .home-text084 {
     font-size: 16px;
     line-height: 24px;
   }
-  .home-text84 {
+  .home-text086 {
     font-size: 16px;
     line-height: 24px;
   }
-  .home-text95 {
+  .home-text097 {
     font-size: 16px;
     line-height: 24px;
   }
-  .home-text97 {
+  .home-text099 {
     font-size: 16px;
     line-height: 24px;
   }
@@ -3602,35 +3602,35 @@
   .home-heading {
     max-width: 280px;
   }
-  .home-text44 {
+  .home-text046 {
     font-style: normal;
     font-weight: 600;
   }
-  .home-text46 {
+  .home-text048 {
     font-style: normal;
     font-weight: 600;
   }
-  .home-text48 {
+  .home-text050 {
     font-style: normal;
     font-weight: 600;
   }
-  .home-text50 {
+  .home-text052 {
     font-style: normal;
     font-weight: 600;
   }
-  .home-text52 {
+  .home-text054 {
     font-style: normal;
     font-weight: 600;
   }
-  .home-text54 {
+  .home-text056 {
     font-style: normal;
     font-weight: 600;
   }
-  .home-text56 {
+  .home-text058 {
     font-style: normal;
     font-weight: 600;
   }
-  .home-text58 {
+  .home-text060 {
     font-style: normal;
     font-weight: 600;
   }
